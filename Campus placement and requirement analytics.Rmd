@@ -8,6 +8,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+data <- read.csv ("Campus_Placement_Analytics_Small_Dataset.csv")
+head(data)
+
 
 ## R Markdown
 
