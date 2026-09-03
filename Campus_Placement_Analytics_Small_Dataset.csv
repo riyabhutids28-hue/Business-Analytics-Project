@@ -1,0 +1,21 @@
+Student_ID,CGPA,Attendance_Percentage,Backlogs,Technical_Skill_Score,Aptitude_Score,Communication_Score,Internships,Projects,Placement_Training,Placement_Status
+1,8.6,92,0,8,85,8,2,3,Yes,Placed
+2,7.8,88,1,7,78,7,1,2,Yes,Placed
+3,6.5,75,2,6,65,6,0,1,No,Not Placed
+4,9.1,95,0,9,91,9,3,4,Yes,Placed
+5,7.2,82,1,7,72,7,1,2,No,Placed
+6,6.8,79,2,6,68,6,0,1,No,Not Placed
+7,8.3,90,0,8,84,8,2,3,Yes,Placed
+8,7.5,85,0,7,76,7,1,2,Yes,Placed
+9,6.2,70,3,5,60,5,0,0,No,Not Placed
+10,8.9,94,0,9,88,9,2,4,Yes,Placed
+11,7.0,80,1,6,70,6,1,1,No,Not Placed
+12,8.0,87,0,8,80,8,2,2,Yes,Placed
+13,6.9,77,1,6,67,6,0,1,No,Not Placed
+14,9.3,96,0,9,93,9,3,4,Yes,Placed
+15,7.6,84,1,7,75,7,1,2,Yes,Placed
+16,6.4,73,2,5,62,5,0,1,No,Not Placed
+17,8.5,91,0,8,86,8,2,3,Yes,Placed
+18,7.3,81,1,7,71,7,1,2,No,Placed
+19,6.7,76,2,6,64,6,0,1,No,Not Placed
+20,8.8,93,0,9,89,9,2,3,Yes,Placed
